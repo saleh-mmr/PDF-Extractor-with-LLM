@@ -18,7 +18,9 @@ A Streamlit application that extracts structured financial data from PDF documen
   Create a .env file in the project root and add the following line:
   ```bash
   OPENAI_API_KEY=your_openai_api_key_here
+  ```
 
 3. **Run the Streamlit app:**
   ```bash
   streamlit run app.py
+  ```
